@@ -4,23 +4,19 @@
 	"name": "renan",
 	"age": 36
 	},
-
 	{
 	"id": 2,
 	"name": "analyn",
 	"age": 29
 	},
-
 	{
 	"id": 3,
 	"name": "rain",
 	"age": 8
 	},
-
 	{
 	"id": 4,
 	"name": "uriel",
 	"age": 3
 	}
-
 ]
