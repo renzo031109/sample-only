@@ -25,7 +25,7 @@
       "authors": "Yogesh Patel",
       "published": "April 2016",
       "description": "Over 70 incredibly effective and practical recipes to get you up and running with Sitecore development",
-      "coverImage": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6527cov_.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/Bangus-Sisig.jpg?alt=media&token=d62ab821-bdc1-4783-a2ae-64f40ef993e4"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "authors": "Bass Jobsen",
       "published": "April 2016",
       "description": "Over 120 practical and easy-to-understand recipes that explain how to use Sass and Compass to write efficient, maintainable, and reusable CSS code for your web development projects",
-      "coverImage": "https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/I6935.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/bbq-silog.jpg?alt=media&token=98e39adf-4606-42ba-8c77-26ea1086cd66"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "authors": "Ved Antani",
       "published": "August 2016",
       "description": "Unlock the powers of functional programming hidden within JavaScript to build smarter, cleaner, and more reliable web apps.",
-      "coverImage": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781787124660.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/beef-pares.jpg?alt=media&token=822cb99d-c110-4a63-b042-08235fe44a4e"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "authors": "Yuxian",
       "published": "August 2010",
       "description": "Test and debug JavaScript the easy way.",
-      "coverImage": "https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/0004OT_MockupCover_Beginers%20guide.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/bulalo.jpg?alt=media&token=5035edad-c927-47c9-a0cb-785f75543933"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "authors": "Ved Antani",
       "published": "January 2016",
       "description": "Explore and master modern JavaScript techniques in order to build large-scale web applications.",
-      "coverImage": "https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4709_1341OS_Mastering%20JavaScript.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/qchicken-silog.jpg?alt=media&token=05b8ad95-5212-4840-be2b-73b626092ab2"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "authors": "Rui Wang",
       "published": "July 2013",
       "description": "Microsoft Kinect changes the notion of user interface design. It differs from most other user input controllers as it enables users to interact with the program without touching the mouse or a trackpad. It utilizes motion sensing technology and all it needs is a real-time cameras, tracked skeletons, and gestures.",
-      "coverImage": "https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4384OT_Mini.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/burger-silog.jpg?alt=media&token=751e426b-4b52-43fe-b6e2-7a7c9f990646"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "authors": "Dmitry Sheiko",
       "published": "December 2015",
       "description": "Improve your code maintainability, performance, and security through practical expert insights and unlock the full potential of JavaScript.",
-      "coverImage": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/1572OS_4886_Javascript%20Unlocked.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/tocino-silog.jpg?alt=media&token=a806fdfd-c907-4d68-a449-80185c514102"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "authors": "Abhijit Jana",
       "published": "December 2012",
       "description": "Kinect has been a game-changer in the world of motion games and applications since its first release. It has been touted as a controller for Microsoft Xbox but is much more than that. The developer version of Kinect, Kinect for Windows SDK, provides developers with the tools to develop applications that run on Windows. You can use this to develop applications that make interaction with your computer hands-free.",
-      "coverImage": "https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/2380OT.jpg"
+      "coverImage": "https://firebasestorage.googleapis.com/v0/b/casa-felipa.appspot.com/o/hotdog-silog.jpg?alt=media&token=95299c12-1870-4b27-bb5c-87ca45e8231e"
     }
   ]
 }
